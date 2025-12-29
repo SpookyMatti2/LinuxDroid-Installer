@@ -66,6 +66,8 @@ Lo script rimuoverà:
 
 ## 📝 Licenza
 
-Progetto creato da **Walter**.  
+Progetto creato da **SpookyMatti2**.  
 Distribuzione consentita solo con autorizzazione.
-
+## ☕ Supporta il progetto
+Se vuoi supportare il mio lavoro:
+https://buymeacoffee.com/spookymatti2
