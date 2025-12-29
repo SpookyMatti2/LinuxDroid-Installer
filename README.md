@@ -68,6 +68,7 @@ Lo script rimuoverà:
 
 Progetto creato da **SpookyMatti2**.  
 Distribuzione consentita solo con autorizzazione.
-## ☕ Supporta il progetto
-Se vuoi supportare il mio lavoro:
-https://buymeacoffee.com/spookymatti2
+## 💸 Acquista LinuxDroid Installer (3€)
+👉 https://ko-fi.com/s/b1de9b66d6
+
+
