@@ -1,5 +1,5 @@
 # LinuxDroid Installer v1.2
-One-File Edition — by Walter
+One-File Edition — by SpookyMatti2
 
 LinuxDroid Installer è uno script avanzato che permette di installare Ubuntu con ambiente grafico XFCE su Termux in modo semplice, veloce e completamente automatizzato.  
 Questa versione è **One-File Edition**, quindi tutto il codice è contenuto in un unico file: `installer.sh`.
@@ -68,3 +68,4 @@ Lo script rimuoverà:
 
 Progetto creato da **Walter**.  
 Distribuzione consentita solo con autorizzazione.
+
